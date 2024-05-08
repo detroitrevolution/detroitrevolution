@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://files.catbox.moe/rw78v1.gif"/>
+  <img src="https://files.catbox.moe/4ge97d.gif"/>
 </p>
 <p align="center">
-<a href="https://youtu.be/F6nJgZOt9uo?si=xwarM7Oak0vcn7pA">an eye for an eye and the world goes blind</a>.
+<a href="https://youtu.be/D1tBUSupc8w?si=Tyea6caqno5WeucR">dont have any regrets; you did what you were designed to do</a>.
 </p>
