@@ -1,6 +1,2 @@
-<p align="center">
-<img src="https://files.catbox.moe/74bqj2.jpg"/>
-</p>
-<p align="center">
-<a href="https://rentry.co/GV200">dont have any regrets; you did what you were designed to do</a>.
-</p>
+<!--Pagedoll--><img src="https://files.catbox.moe/mdc54t.gif" alt="pagedoll" style="max-width: 200px;" class="fr-fic fr-dii" width="199.964" height="266.964"></a>
+</div>
