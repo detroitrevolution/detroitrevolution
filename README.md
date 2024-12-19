@@ -1,5 +1,1 @@
-ill actually make this look good in the future
-</div>
-hi. heavy mouthwashing/cof/dbh fan. yay.
-</p>
-daisuke irl , idm doubles, int or don't int. your choice.
+<img src="https://files.catbox.moe/lj6a5t.png" width="239" align="right" class="fr-fir fr-dii" height="239"></div>
