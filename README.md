@@ -1,13 +1,12 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/9a/a6/cb/9aa6cb5d2a34c7361dc9e1f13f2ed8b9.jpg" width="300" align="center" class="fr-fir fr-dii" height="300"></div>
+<img src="https://files.catbox.moe/mmtxh0.jpg" width="300" align="center" class="fr-fir fr-dii" height="400"></div>
 </p>
 <p align="center">
-<img src="https://dividers.crd.co/assets/images/gallery02/91f95a9a.png?v=05d33f91" width="300" align="center" class="fr-fir fr-dii" height="50"></div>
+<img src="https://camo.githubusercontent.com/3863be7a1452a20194d7f2a1c710929ad954e4f2f6080ae8bccddb0228f717f0/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65386165376339643332373433343231343030356632373539653130643863352f303862363032346163623631303737322d35372f73343030783630302f656132383836383434363566653931633537323764633664323264356236313638303730393531642e67696676" width="500" align="center" class="fr-fir fr-dii" height="10"></div>
 </p>
-<div>
-  <p align="center">
-𝘚𝘵𝘢𝘳𝘦  𝘢𝘵  𝘢𝘭𝘭  𝘵𝘩𝘦  𝘮𝘦𝘥𝘴  𝘵𝘩𝘢𝘵  𝘐'𝘷𝘦  𝘪𝘨𝘯𝘰𝘳𝘦𝘥,  𝘭𝘢𝘺  𝘪𝘯  𝘣𝘦𝘥  𝘢𝘯𝘥  𝘥𝘰  𝘯𝘰𝘵𝘩𝘪𝘯𝘨  𝘣𝘦𝘤𝘢𝘶𝘴𝘦  𝘐'𝘮  𝘣𝘰𝘳𝘦𝘥!
-</p>
+<p align="center">
+<img src="https://camo.githubusercontent.com/f7bd2b7cd7683ec375b8f1c9bb3de175e8511a9e1c3999fc232e35768830a26e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d4637303030302663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d4974253237732b66696c7468792532432b64697367757374696e672532432b736f2b75676c792532432b492532376d2b737572652532453b492532376d2b75676c792532432b64697367757374696e672532432b616e642b66696c7468792b666f722b73757265253245" width="500" align="center" class="fr-fir fr-dii" height="60"></div>
+
   <div>
     <p align="center">
 <a href="https://rentry.co/douublefedora">PT Rentry</a> ◞ <a href="https://rentry.co/gaviin">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://gavin.atabook.org/">Atabook</a>
