@@ -9,5 +9,5 @@
 
   <div>
     <p align="center">
-<a href="https://rentry.co/douublefedora">PT Rentry</a> ◞ <a href="https://rentry.co/gaviin">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://gavin.atabook.org/">Atabook</a>
+<a href="https://rentry.co/douublefedora">PT Rentry</a> ◞ <a href="https://rentry.co/gaviin">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://gavin.atabook.org/">Atabook</a> ◞ <a href="https://rentry.co/gavvie">Funny Shiplist</a>
     </p>
