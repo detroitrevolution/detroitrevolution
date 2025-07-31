@@ -1,13 +1,15 @@
 <p align="center">
-<img src="https://pbs.twimg.com/media/GnwXBx8XMAAG1v0?format=jpg&name=medium" width="300" align="center" class="fr-fir fr-dii" height="400"></div>
+<img src="https://64.media.tumblr.com/5e482c3006db218065d402e1d52b057a/2a6ba979c585bbd6-d3/s400x600/287b95e355f44c8141822a07d304ad5445f17133.pnj" width="600" align="center" class="fr-fir fr-dii" height="500"></div>
 </p>
 <p align="center">
-<img src="https://camo.githubusercontent.com/3863be7a1452a20194d7f2a1c710929ad954e4f2f6080ae8bccddb0228f717f0/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f65386165376339643332373433343231343030356632373539653130643863352f303862363032346163623631303737322d35372f73343030783630302f656132383836383434363566653931633537323764633664323264356236313638303730393531642e67696676" width="500" align="center" class="fr-fir fr-dii" height="10"></div>
+<img src="https://files.catbox.moe/qdij0s.jpg" width="500" align="center" class="fr-fir fr-dii" height="600"></div>
 </p>
 <p align="center">
-<img src="https://camo.githubusercontent.com/f7bd2b7cd7683ec375b8f1c9bb3de175e8511a9e1c3999fc232e35768830a26e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d4637303030302663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d4974253237732b66696c7468792532432b64697367757374696e672532432b736f2b75676c792532432b492532376d2b737572652532453b492532376d2b75676c792532432b64697367757374696e672532432b616e642b66696c7468792b666f722b73757265253245" width="500" align="center" class="fr-fir fr-dii" height="60"></div>
-
+<img src="https://64.media.tumblr.com/a5d1d45c78d6f6f65f685b2980106e2e/9b360b95216ccc4d-31/s250x400/8dab26584fdf6411f64526e754c12947989cdf0b.pnj" width="500" align="center" class="fr-fir fr-dii" height="50"></div>
+</p>
   <div>
     <p align="center">
 <a href="https://rentry.co/douublefedora">PT Rentry</a> ◞ <a href="https://rentry.co/gaviin">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://gavin.atabook.org/">Atabook</a>
     </p>
+<p align="center">
+<img src="https://64.media.tumblr.com/1a6f2f2f7464cab6959e5ca8a1220c85/2a6ba979c585bbd6-35/s400x600/3a9472bc8dca1022a8aaa667adfaf45674ad5d81.pnj" width="600" align="center" class="fr-fir fr-dii" height="500"></div>
