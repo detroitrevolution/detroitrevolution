@@ -9,7 +9,7 @@
 </p>
   <div>
     <p align="center">
-<a href="https://rentry.co/douublefedora">PT Rentry</a> ◞ <a href="https://rentry.co/gaviin">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://gavin.atabook.org/">Atabook</a>
+<a href="https://rentry.co/abbydon">PT Rentry</a> ◞ <a href="https://rentry.co/gaviin">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://gavin.atabook.org/">Atabook</a>
     </p>
 <p align="center">
 <img src="https://64.media.tumblr.com/1a6f2f2f7464cab6959e5ca8a1220c85/2a6ba979c585bbd6-35/s400x600/3a9472bc8dca1022a8aaa667adfaf45674ad5d81.pnj" width="600" align="center" class="fr-fir fr-dii" height="500"></div>
