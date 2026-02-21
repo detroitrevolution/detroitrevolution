@@ -1,8 +1,6 @@
+
 <p align="center">
-<img src="https://64.media.tumblr.com/5e482c3006db218065d402e1d52b057a/2a6ba979c585bbd6-d3/s400x600/287b95e355f44c8141822a07d304ad5445f17133.pnj" width="600" align="center" class="fr-fir fr-dii" height="500"></div>
-</p>
-<p align="center">
-<img src="https://files.catbox.moe/yyucia.jpg" width="400" align="center" class="fr-fir fr-dii" height="400"></div>
+<img src="https://files.catbox.moe/p2m3np.jpg" width="400" align="center" class="fr-fir fr-dii" height="400"></div>
 </p>
 <p align="center">
 <img src="https://64.media.tumblr.com/a5d1d45c78d6f6f65f685b2980106e2e/9b360b95216ccc4d-31/s250x400/8dab26584fdf6411f64526e754c12947989cdf0b.pnj" width="500" align="center" class="fr-fir fr-dii" height="50"></div>
@@ -17,6 +15,3 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=78q84ld02lbur5uaiiiptrmvs&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=552b2b&bar_color_cover=false">
   </a>
-</p>
-<p align="center">
-<img src="https://64.media.tumblr.com/1a6f2f2f7464cab6959e5ca8a1220c85/2a6ba979c585bbd6-35/s400x600/3a9472bc8dca1022a8aaa667adfaf45674ad5d81.pnj" width="600" align="center" class="fr-fir fr-dii" height="500"></div>
