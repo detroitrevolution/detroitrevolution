@@ -7,7 +7,7 @@
 </p>
   <div>
     <p align="center">
-<a href="https://rentry.co/abbydon">PT Rentry</a> ◞ <a href="https://rentry.co/gaviin">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://gavin.atabook.org/">Atabook</a>
+<a href="https://rentry.co/abbydon">PT Rentry</a> ◞ <a href="https://rentry.co/rybaddon">Main Rentry</a> ◞ <a href="https://rentry.co/-mybloodmysoul">Socials</a> ◞ <a href="https://rybaddon.atabook.org/">Atabook</a>
       <p align="center">
 <img src="https://files.catbox.moe/ui9rgj.jpg" width="300" align="center" class="fr-fir fr-dii" height="250"></div>
     </p>
